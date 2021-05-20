@@ -1,6 +1,7 @@
-<h1 align="center">Hi there, I'm Isaiah Silvani 👨‍🚀</h1>
+<h1 align="center">Hey there, I'm Isaiah Silvani 👨‍🚀</h1>
 <h2 align="center">I am a passionate Full-Stack Software Developer</h3>
 <h3 align="center">I am driven by an insatiable urge to solve problems and build things. As a result, I never settle for anything less than my best work.</h6>
+<br>
 
 - 📫   You can reach me at: **isilvani@hotmail.com**
 - 🏠   I currently live in Philadelphia, PA
@@ -13,6 +14,8 @@
 - MongoDB, PostgreSQL 
 - HTML5, CSS3, Bootstrap
 
+<b>Connect with me</b>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/isaiah-silvani/)
 
 <!--
 **isaiahsilvani/isaiahsilvani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

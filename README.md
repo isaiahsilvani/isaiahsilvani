@@ -3,7 +3,7 @@
 <h3 align="center">I am driven by an insatiable urge to solve problems and build things. As a result, I never settle for anything less than my best work.</h6>
 <br>
 
-- 📫   You can reach me at: **isilvani@hotmail.com**
+- 📫   You can reach me at: **developersilvani@gmail.com**
 - 🏠   I currently live in Philadelphia, PA
 - 🎤   Open to connecting!
 

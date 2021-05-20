@@ -1,4 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Isaiah Silvani 👨‍💻</h1>
+<h3 align="center">I am a passionate Full-Stack JavaScript Developer</h3>
+<br>
+<h6 align="center"><i>I find fullfillment by solving problems and building bigger and better things.</i></h6>
+<br>
+- 📫  You can reach me at: **developer@danieljs.io**
+- 🏫 I currently work as a Software Engineering Instructor for General Assembly.
+- 🗣  Open to speaking at your next event!
+<br>
+
+<b>Here are some of my most used skills</b>
+- HTML5
+- CSS3, SASS, Materialize
+- JavaScript, Python
+- React, Gatsby
+- MongoDB, PostgreSQL 
 
 <!--
 **isaiahsilvani/isaiahsilvani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

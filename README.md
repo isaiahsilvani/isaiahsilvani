@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Isaiah Silvani 👨‍💻</h1>
-<h3 align="center">I am a passionate Full-Stack JavaScript Developer</h3>
+<h2 align="center">I am a passionate Full-Stack JavaScript Developer</h3>
+<h3 align="center">I never settle for anything less than my best work.</h6>
 <br>
-<h6 align="center"><i>I find fullfillment by solving problems and building bigger and better things.</i></h6>
-<br>
+
 - 📫  You can reach me at: **developer@danieljs.io**
 - 🏫 I currently work as a Software Engineering Instructor for General Assembly.
 - 🗣  Open to speaking at your next event!

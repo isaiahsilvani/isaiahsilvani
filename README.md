@@ -3,17 +3,17 @@
 <h3 align="center">I never settle for anything less than my best work.</h6>
 <br>
 
-- 📫  You can reach me at: **developer@danieljs.io**
-- 🏫 I currently work as a Software Engineering Instructor for General Assembly.
-- 🗣  Open to speaking at your next event!
-<br>
+- 📫   You can reach me at: **isilvani@hotmail.com**
+- 🏫   I currently live in Philadelphia, PA
+- 🗣   Open to connecting!
 
-<b>Here are some of my most used skills</b>
-- HTML5
-- CSS3, SASS, Materialize
+<b>Here are some of my skills</b>
+- React, Express
+- NodeJS, Django
 - JavaScript, Python
-- React, Gatsby
 - MongoDB, PostgreSQL 
+- HTML5, CSS3, Bootstrap
+
 
 <!--
 **isaiahsilvani/isaiahsilvani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

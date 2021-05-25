@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Isaiah Silvani 👨‍🚀</h1>
+![Hey, I'm Isaiah Silvani](https://i.imgur.com/74TDRFA.jpg)
 <h2 align="center">I am a passionate Full-Stack Software Developer</h3>
 <h3 align="center">I am driven by an insatiable urge to solve problems and build things. As a result, I never settle for anything less than my best work.</h6>
 <br>
